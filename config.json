@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "alu",
+    "VERILOG_FILES": "dir::src/alu.v",
+    "PNR_SDC_FILE": "dir::src/alu.sdc",
+    "SIGNOFF_SDC_FILE": "dir::src/alu.sdc",
+    "RUN_CTS": 0,
+    "CLOCK_PERIOD": 10.0,
+    "CLOCK_PORT": null,
+    "FP_SIZING": "relative",
+    "FP_CORE_UTIL": 40,
+    "PL_TARGET_DENSITY": 0.45,
+    "SYNTH_STRATEGY": "AREA 0"
+}
